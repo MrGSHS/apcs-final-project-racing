@@ -1,0 +1,6 @@
+[submodule "game"]
+	path = game
+	url = https://github.com/nseveryns/racing-game
+[submodule "decompiler"]
+	path = decompiler
+	url = https://github.com/nseveryns/decompiler.git
